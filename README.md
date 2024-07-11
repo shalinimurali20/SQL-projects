@@ -7,12 +7,6 @@
 - What country has the highest amount of debt? Your output should contain two columns: country_name and total_debt and one row.
 - What country has the lowest amount of principal repayments (indicated by the "DT.AMT.DLXF.CD" indicator code)?
 
-# Investigating Netflix Movies
-## Level: Beginner
-### Task: Perform exploratory data analysis on the netflix_data.csv data to understand more about movies from the 1990s decade.
-- What was the most frequent movie duration in the 1990s? 
-- A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s and save this integer as short_movie_count
-
 # Analyze Students' Mental Health
 ## Level: Beginner
 ### Task: Explore and analyze the students data to see how the length of stay (stay) impacts the average mental health diagnostic scores of the international students present in the study.
